@@ -21,8 +21,7 @@ Dado minha origem, educação e insentivo a tecnologia é algo que levo como ban
 > [link do projeto](https://www.youtube.com/@devsdoamanha4044)
 
 #### Conhecimentos 🌱
-![1](https://user-images.githubusercontent.com/33788881/209362493-357d4dde-3ac7-495b-a624-de20f73c4a44.png)
-
+![1](https://user-images.githubusercontent.com/33788881/209402312-3d50b3e3-d8a2-42eb-8b15-ed2c23931cd8.png)
 #### Contato
 Estou sempre aberto para conversas, abaixo vou deixar meu contato caso queria me da um salve :) 
 

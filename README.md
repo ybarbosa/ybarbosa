@@ -26,4 +26,5 @@ Dado minha origem, educação e insentivo a tecnologia é algo que levo como ban
 Estou sempre aberto para conversas, abaixo vou deixar meu contato caso queria me da um salve :) 
 
 > email: yanbarbosa19@gmail.com <br>
+
 > [linkedin](https://www.linkedin.com/in/yan-barbosa-83018497)

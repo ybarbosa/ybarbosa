@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Ola 👋
+###### Meu nome é Yan Barbosa, abaixo tem uma breve descrição sobre mim 😄
 <!--
 **ybarbosa/ybarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Sobre mim 💬
+Estudo programação desde 2018, porém "entrei" na area oficialmente no inicio de 2019. Nesse tempo sempre trabalhei com JS e seu ecosistema, então tenho bastante fluencia com node, ts, vue e etc. <br>
+Dado minha origem, educação e insentivo a tecnologia é algo que levo como bandeira,então, desde de junho/2022 inicie um projeto social voltado para ensinar programação para pessoas pretas.
+> [link do projeto](https://www.youtube.com/@devsdoamanha4044)
+
+#### Conhecimentos 🌱
+![1](https://user-images.githubusercontent.com/33788881/209362493-357d4dde-3ac7-495b-a624-de20f73c4a44.png)
+
+#### Contato
+Estou sempre aberto para conversas, abaixo vou deixar meu contato caso queria me da um salve :) 
+
+> email: yanbarbosa19@gmail.com
+> [linkedin](https://www.linkedin.com/in/yan-barbosa-83018497)

@@ -27,4 +27,3 @@ Estou sempre aberto para conversas, abaixo vou deixar meu contato caso queria me
 
 > email: yanbarbosa19@gmail.com <br>
 
-> [linkedin](https://www.linkedin.com/in/yan-barbosa-83018497)
